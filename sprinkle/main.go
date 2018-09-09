@@ -16,6 +16,7 @@ var transforms = []string{
 	otherWord,
 	otherWord,
 	otherWord,
+	otherWord,
 	otherWord + "app",
 	otherWord + "site",
 	"get" + otherWord,
