@@ -5,7 +5,8 @@ import (
 	"fmt"
 	"log"
 	"os"
-	"thesaurus"
+
+	"github.com/goki0524/gopackage/domain/thesaurus"
 )
 
 func main() {
